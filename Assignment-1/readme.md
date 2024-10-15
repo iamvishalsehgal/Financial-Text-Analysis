@@ -3,8 +3,6 @@
 ## Overview
 This project predicts Nvidia's stock price movements based on news articles using Natural Language Processing (NLP) techniques. It involves preprocessing text data, training models, and evaluating performance for stock movement prediction.
 
-This project was completed at JADS (a collaboration between Tilburg University and Eindhoven University of Technology) as part of the NLP course for the 2024-2025 academic year.
-
 ## Project Structure
 - **Dataset/**: Contains the code and dataset for the analysis.
   - `code.ipynb`: Jupyter notebook with the complete code.
