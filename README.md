@@ -1,6 +1,6 @@
 # NLP Assignments: Stock Price Prediction and Topic Modeling
 
-This repository contains the code and documentation for two assignments from the Natural Language Processing course (07/2024-01/2025). Assignment 1 focuses on predicting stock price movements using text classification, while Assignment 2 explores topic modeling on financial news articles using BERTopic, LDA, and FLSA-W.
+This repository contains the code and documentation for two assignments from the Natural Language Processing. Assignment 1 focuses on predicting stock price movements using text classification, while Assignment 2 explores topic modeling on financial news articles using BERTopic, LDA, and FLSA-W.
 
 ---
 
