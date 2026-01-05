@@ -20,5 +20,3 @@ You can find the dataset [here](https://tilburguniversity.instructure.com/course
 
 2. Running the Project
 Open and run the code.ipynb notebook for a complete walkthrough of data preprocessing, model training, and evaluation.
-
-Written by Chatgpt :)
